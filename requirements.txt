@@ -1,0 +1,9 @@
+gunicorn
+flask==2.2.2
+pickle
+numpy
+scikit-learn==1.2.2
+gensim==4.3.0
+nltk==3.8.1
+sastrawi==1.0.0
+re
